@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/belajarreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/belajarreact/static/js/main.2c57375a.chunk.js",
+    "main.js.map": "/belajarreact/static/js/main.2c57375a.chunk.js.map",
+    "runtime-main.js": "/belajarreact/static/js/runtime-main.9ed93861.js",
+    "runtime-main.js.map": "/belajarreact/static/js/runtime-main.9ed93861.js.map",
+    "static/js/2.fa9d16e3.chunk.js": "/belajarreact/static/js/2.fa9d16e3.chunk.js",
+    "static/js/2.fa9d16e3.chunk.js.map": "/belajarreact/static/js/2.fa9d16e3.chunk.js.map",
+    "index.html": "/belajarreact/index.html",
+    "precache-manifest.0525603a40f2267ba48f0827887cb675.js": "/belajarreact/precache-manifest.0525603a40f2267ba48f0827887cb675.js",
+    "service-worker.js": "/belajarreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/belajarreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fa9d16e3.chunk.js.LICENSE.txt": "/belajarreact/static/js/2.fa9d16e3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/belajarreact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ed93861.js",
+    "static/js/2.fa9d16e3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2c57375a.chunk.js"
+  ]
+}
